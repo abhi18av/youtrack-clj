@@ -7,6 +7,11 @@ A Clojure wrapper for the YouTrack Rest API
 - [http-kit "2.2.0"]
 - [clj-http "3.9.1"]
 
+## Resources
+
+- https://www.jetbrains.com/help/youtrack/incloud/Manage-Permanent-Token.html
+- https://www.jetbrains.com/help/youtrack/incloud/YouTrack-REST-API-Reference.html
+
 
 ## Usage
 
